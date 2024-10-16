@@ -4,15 +4,9 @@
 <br>
 
 
-<img align='right' alt="coding" width=400 src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align='right' alt="coding" width=400 height=300 src="https://gifdb.com/images/high/penguin-wizard-coding-q4ed18dqrms89s9o.webp">
+<p>Self-driven Full Stack Developer with a passion for learning and evolving <br> in the tech world. Skilled in building powerful web applications using Python <br>with Django on the backend and React.js on the frontend. Always excited <br> about exploring new technologies and improving my craft. An avid coder <br> who enjoys problem-solving and creating impactful solutions. Currently diving <br> deeper into advanced web development techniques, aiming to grow into a more<br> seasoned developer. Let's collaborate, innovate, and shape the future of tech <br> together! </p>
 
-
-- 📫 How to reach me **brightybabu2001@gmail.com**
-
-- 💬 Ask me about **Python , Django and React**
-
-
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 <br>
 
 ###
