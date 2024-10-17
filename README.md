@@ -5,7 +5,7 @@
 
 
 <img align='right' alt="coding" width=400 height=300 src="https://gifdb.com/images/high/penguin-wizard-coding-q4ed18dqrms89s9o.webp">
-<p>Self-driven Full Stack Developer with a passion for learning and evolving in the tech world. Skilled in building powerful web applications using Python <br>with Django on the backend and React.js on the frontend. Always excited about exploring new technologies and improving my craft. An avid coder who enjoys problem-solving and creating impactful solutions. Currently diving <br> deeper into advanced web development techniques, aiming to grow into a more seasoned developer. Let's collaborate, innovate, and shape the future of tech together! </p>
+<p>Self-driven Full Stack Developer with a passion for learning and evolving in the tech world. Skilled in building powerful web applications using Python <br>with Django on the backend and React.js on the frontend. Always excited about exploring new technologies and improving my craft. An avid coder who enjoys problem-solving and creating impactful solutions. Currently diving deeper into advanced web development techniques, aiming to grow into a more seasoned developer. Let's collaborate, innovate, and shape the future of tech together! </p>
 
 <br>
 
